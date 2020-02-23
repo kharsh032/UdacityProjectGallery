@@ -1,0 +1,11 @@
+[
+    {
+        "ParameterKey":"EnvironmentName",
+        "ParameterValue":"ProjectGallery"
+    },
+
+    {
+        "ParameterKey":"VpcCIDR",
+        "ParameterValue":"10.0.0.0/16" 
+    }
+]
